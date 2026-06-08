@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="format-detection" content="telephone=no" />
+    <title>好好意语 A2-B1 结课诊断</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-inner">
+        <p class="eyebrow">A2-B1 Final Diagnostic</p>
+        <h1>好好意语结课诊断</h1>
+        <p class="subtitle">50 道题 · 自动评分 · 错题解析 · Modulo 复习建议</p>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <section class="intro-panel" aria-labelledby="intro-title">
+        <div>
+          <h2 id="intro-title">开始前</h2>
+          <p>
+            这是一份学习体检。完成后会看到总分、各 Parte 和各 Modulo
+            得分，以及需要优先复习的模块。
+          </p>
+        </div>
+        <div class="intro-stats" aria-label="测试信息">
+          <span><b>50</b>题</span>
+          <span><b>45-60</b>分钟</span>
+          <span><b>前端</b>保存</span>
+        </div>
+      </section>
+
+      <section class="status-strip" aria-live="polite">
+        <div>
+          <span id="answeredCount">0</span>
+          <span class="muted">/ 50 已完成</span>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <span id="progressBar"></span>
+        </div>
+      </section>
+
+      <form id="quizForm" class="quiz-form"></form>
+
+      <section id="results" class="results-panel hidden" aria-live="polite"></section>
+    </main>
+
+    <nav class="bottom-actions" aria-label="测试操作">
+      <button id="scoreButton" class="primary-action" type="button">自动批改</button>
+      <button id="resetButton" class="ghost-action" type="button">重新开始</button>
+    </nav>
+
+    <script src="app.js"></script>
+  </body>
+</html>

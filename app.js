@@ -332,7 +332,7 @@ quizForm.addEventListener("change", (event) => {
 scoreButton.addEventListener("click", gradeQuiz);
 resetButton.addEventListener("click", resetQuiz);
 
-fetch("questions.json")
+fetch("questions.json?v=20260608-q9")
   .then((response) => response.json())
   .then((data) => {
     questions = data.questions || [];

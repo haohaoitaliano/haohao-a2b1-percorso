@@ -1,0 +1,820 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / figuracce",
+      "question": "Hai scambiato uno sconosciuto per un tuo amico. Che cosa dici?",
+      "options": [
+        "Che peccato!",
+        "Che figuraccia!",
+        "Che fortuna!",
+        "Che spettacolo!"
+      ],
+      "answer": "Che figuraccia!",
+      "explanation": "“Che figuraccia!” si usa quando si fa una brutta figura o una cosa imbarazzante.",
+      "review": "Ripassa Modulo 1 → Espressioni: figuracce e situazioni imbarazzanti."
+    },
+    {
+      "id": 2,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / relazioni",
+      "question": "Il tuo amico è arrabbiato perché hai risposto al messaggio 10 minuti dopo. Che cosa gli dici?",
+      "options": [
+        "Mi sta a pennello.",
+        "Te la prendi per così poco?",
+        "Magari.",
+        "Ci aggiorniamo."
+      ],
+      "answer": "Te la prendi per così poco?",
+      "explanation": "“Prendersela” significa offendersi o arrabbiarsi. “Per così poco?” = per una cosa così piccola?",
+      "review": "Ripassa Modulo 1 → Litigare, fare la pace, esprimere irritazione."
+    },
+    {
+      "id": 3,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / sospetti",
+      "question": "Pensi che Marco abbia fatto qualcosa di nascosto in questa situazione. Che cosa dici?",
+      "options": [
+        "Marco è molto stanco.",
+        "C'è lo zampino di Marco.",
+        "Marco è una zampa.",
+        "Marco è in vacanza."
+      ],
+      "answer": "C'è lo zampino di Marco.",
+      "explanation": "“C’è lo zampino di…” significa che qualcuno è coinvolto in modo nascosto o indiretto.",
+      "review": "Ripassa Modulo 1 → Modi di dire e relazioni."
+    },
+    {
+      "id": 4,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / conflitti",
+      "question": "Una persona parla in modo aggressivo. Che cosa dici?",
+      "options": [
+        "C'è modo e modo.",
+        "Ci aggiorniamo.",
+        "Mi fa piacere.",
+        "Magari."
+      ],
+      "answer": "C'è modo e modo.",
+      "explanation": "“C’è modo e modo” significa che le cose si possono dire o fare in modi diversi: alcuni sono più educati, altri meno.",
+      "review": "Ripassa Modulo 1 → Espressioni per conflitti e comunicazione."
+    },
+    {
+      "id": 5,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / rabbia",
+      "question": "La tua collega arriva in ritardo ogni giorno. Che cosa dici?",
+      "options": [
+        "Che figuraccia!",
+        "Basta! Sono stufa!",
+        "Magari!",
+        "Mi fa piacere."
+      ],
+      "answer": "Basta! Sono stufa!",
+      "explanation": "“Sono stufa!” significa “ne ho abbastanza / non ne posso più”.",
+      "review": "Ripassa Modulo 1 → Emozioni, rabbia e frustrazione."
+    },
+    {
+      "id": 6,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / maleducazione",
+      "question": "Una persona entra nella fila senza aspettare il proprio turno. Che cosa dici?",
+      "options": [
+        "Ma lei è proprio un maleducato!",
+        "Mi fa piacere.",
+        "Che fortuna!",
+        "Ti sta a pennello."
+      ],
+      "answer": "Ma lei è proprio un maleducato!",
+      "explanation": "“Maleducato” indica una persona senza educazione o senza rispetto per gli altri.",
+      "review": "Ripassa Modulo 1 → Conflitti e registri comunicativi."
+    },
+    {
+      "id": 7,
+      "part": "Parte A",
+      "module": "Modulo 5",
+      "topic": "Italiano reale / turismo",
+      "question": "Hai accompagnato alcuni amici stranieri a visitare Bologna e hai spiegato la storia della città. Che cosa hai fatto?",
+      "options": [
+        "Ho accompagnato degli amici in città.",
+        "Ho mostrato loro i monumenti più importanti.",
+        "Ho fatto da cicerone.",
+        "Ho fatto vedere Bologna ai miei amici."
+      ],
+      "answer": "Ho fatto da cicerone.",
+      "explanation": "“Fare da cicerone” significa accompagnare qualcuno durante una visita e spiegare luoghi, storia o curiosità.",
+      "review": "Ripassa Modulo 5 → Turismo culturale e italiano reale."
+    },
+    {
+      "id": 8,
+      "part": "Parte A",
+      "module": "Modulo 1",
+      "topic": "Italiano reale / stato d'animo",
+      "question": "La tua amica oggi parla poco e sembra triste. Che cosa le dici?",
+      "options": [
+        "Mi sembri un po' stanca.",
+        "Mi sembri un po' giù.",
+        "Mi sembri un po' preoccupata.",
+        "Mi sembri un po' nervosa."
+      ],
+      "answer": "Mi sembri un po' giù.",
+      "explanation": "“Essere giù” significa essere triste, scoraggiato o di cattivo umore.",
+      "review": "Ripassa Modulo 1 → Emozioni e relazioni."
+    },
+    {
+      "id": 9,
+      "part": "Parte A",
+      "module": "Modulo 3",
+      "topic": "Italiano reale / shopping",
+      "question": "Hai provato una giacca e ti sta benissimo. Che cosa dice il commesso?",
+      "options": [
+        "Ti sta bene.",
+        "Ti dona molto.",
+        "Ti sta a pennello.",
+        "È della tua taglia."
+      ],
+      "answer": "Ti sta a pennello.",
+      "explanation": "“Stare a pennello” significa stare benissimo, essere perfetto addosso a qualcuno.",
+      "review": "Ripassa Modulo 3 → Shopping e abbigliamento."
+    },
+    {
+      "id": 10,
+      "part": "Parte A",
+      "module": "Modulo 4",
+      "topic": "Italiano reale / relazioni",
+      "question": "Due amici si piacciono ma nessuno dei due fa il primo passo. Che cosa dici?",
+      "options": [
+        "Le rose costano molto.",
+        "Vedremo cosa succede.",
+        "Se sono rose, fioriranno.",
+        "Forse si piacciono."
+      ],
+      "answer": "Se sono rose, fioriranno.",
+      "explanation": "“Se sono rose, fioriranno” significa: se una cosa deve succedere, succederà.",
+      "review": "Ripassa Modulo 4 → Futuro, vita sociale e modi di dire."
+    },
+    {
+      "id": 11,
+      "part": "Parte A",
+      "module": "Modulo 8",
+      "topic": "Dibattito / accordo",
+      "question": "Il tuo amico dice: “I social network fanno perdere troppo tempo.” Tu sei d'accordo. Che cosa dici?",
+      "options": [
+        "È possibile.",
+        "Anch'io penso che sia così.",
+        "Forse hai ragione.",
+        "Non lo so."
+      ],
+      "answer": "Anch'io penso che sia così.",
+      "explanation": "“Anch’io penso che…” serve per esprimere accordo.",
+      "review": "Ripassa Modulo 8 → Fare un dibattito: accordo e opinioni."
+    },
+    {
+      "id": 12,
+      "part": "Parte A",
+      "module": "Modulo 8",
+      "topic": "Dibattito / disaccordo parziale",
+      "question": "Non condividi completamente l'opinione del tuo amico. Che cosa dici?",
+      "options": [
+        "Non sono sicuro.",
+        "In parte hai ragione, ma...",
+        "È difficile dirlo.",
+        "Vedremo."
+      ],
+      "answer": "In parte hai ragione, ma...",
+      "explanation": "“In parte hai ragione, ma…” introduce un disaccordo parziale.",
+      "review": "Ripassa Modulo 8 → Fare un dibattito: accordo parziale."
+    },
+    {
+      "id": 13,
+      "part": "Parte A",
+      "module": "Modulo 8",
+      "topic": "Dibattito / opinione diversa",
+      "question": "Vuoi esprimere un'opinione diversa senza essere aggressivo. Che cosa dici?",
+      "options": [
+        "Capisco la tua idea, ma...",
+        "Che spettacolo!",
+        "Magari!",
+        "Ultimamente sono un disastro."
+      ],
+      "answer": "Capisco la tua idea, ma...",
+      "explanation": "“Capisco la tua idea, ma…” è utile per introdurre un’opinione diversa in modo rispettoso.",
+      "review": "Ripassa Modulo 8 → Dibattito e opinioni."
+    },
+    {
+      "id": 14,
+      "part": "Parte A",
+      "module": "Modulo 8",
+      "topic": "Dibattito / risposta equilibrata",
+      "question": "Non sei sicuro e vuoi dare una risposta equilibrata. Che cosa dici?",
+      "options": [
+        "Anch'io penso che sia così.",
+        "Dipende.",
+        "Non sono d'accordo.",
+        "Hai perfettamente ragione."
+      ],
+      "answer": "Dipende.",
+      "explanation": "“Dipende” significa “dipende dalla situazione / dai casi”. È una risposta equilibrata.",
+      "review": "Ripassa Modulo 8 → Dibattito: risposte equilibrate."
+    },
+    {
+      "id": 15,
+      "part": "Parte B",
+      "module": "Modulo 2",
+      "topic": "Condizionale / desiderio",
+      "question": "Mi ______ fare il giro del mondo.",
+      "options": [
+        "piaceva",
+        "piacerebbe",
+        "piace",
+        "piacerà"
+      ],
+      "answer": "piacerebbe",
+      "explanation": "“Mi piacerebbe” esprime un desiderio in modo cortese.",
+      "review": "Ripassa Modulo 2 → Condizionale semplice."
+    },
+    {
+      "id": 16,
+      "part": "Parte B",
+      "module": "Modulo 2",
+      "topic": "Condizionale / desiderio",
+      "question": "______ imparare il giapponese.",
+      "options": [
+        "Vorrei",
+        "Voglio che",
+        "Ho voluto",
+        "Volevo ieri"
+      ],
+      "answer": "Vorrei",
+      "explanation": "“Vorrei” è condizionale e si usa per esprimere un desiderio.",
+      "review": "Ripassa Modulo 2 → Vorrei / mi piacerebbe."
+    },
+    {
+      "id": 17,
+      "part": "Parte B",
+      "module": "Modulo 2",
+      "topic": "Pronomi relativi",
+      "question": "Il corso ______ mi sono iscritta è interessante.",
+      "options": [
+        "che",
+        "a cui",
+        "dove",
+        "quando"
+      ],
+      "answer": "a cui",
+      "explanation": "Iscriversi a un corso → il corso a cui mi sono iscritta.",
+      "review": "Ripassa Modulo 2 → Che / cui."
+    },
+    {
+      "id": 18,
+      "part": "Parte B",
+      "module": "Modulo 2",
+      "topic": "Condizionale / cortesia",
+      "question": "Chiuderesti la finestra? In questa frase il condizionale esprime:",
+      "options": [
+        "futuro",
+        "passato",
+        "cortesia",
+        "abitudine"
+      ],
+      "answer": "cortesia",
+      "explanation": "Il condizionale può rendere una richiesta più gentile.",
+      "review": "Ripassa Modulo 2 → Condizionale di cortesia."
+    },
+    {
+      "id": 19,
+      "part": "Parte B",
+      "module": "Modulo 2",
+      "topic": "Condizionale / sogni",
+      "question": "Cosa faresti con 100 milioni di euro?",
+      "options": [
+        "Compro una casa in Toscana e faccio il giro del mondo.",
+        "Comprerei una casa in Toscana e farei il giro del mondo.",
+        "Ho comprato una casa in Toscana e faccio il giro del mondo.",
+        "Compravo una casa in Toscana e facevo il giro del mondo."
+      ],
+      "answer": "Comprerei una casa in Toscana e farei il giro del mondo.",
+      "explanation": "La domanda usa “faresti”, quindi la risposta naturale usa il condizionale: comprerei, farei.",
+      "review": "Ripassa Modulo 2 → Condizionale semplice."
+    },
+    {
+      "id": 20,
+      "part": "Parte B",
+      "module": "Modulo 4",
+      "topic": "Futuro semplice",
+      "question": "Domani ______ a Firenze.",
+      "options": [
+        "andavo",
+        "andrò",
+        "sono andato",
+        "vado ieri"
+      ],
+      "answer": "andrò",
+      "explanation": "“Domani” indica futuro: andrò.",
+      "review": "Ripassa Modulo 4 → Futuro semplice."
+    },
+    {
+      "id": 21,
+      "part": "Parte B",
+      "module": "Modulo 4",
+      "topic": "Futuro semplice",
+      "question": "L'anno prossimo ______ un viaggio.",
+      "options": [
+        "faremo",
+        "facevamo",
+        "abbiamo fatto",
+        "facciamo ieri"
+      ],
+      "answer": "faremo",
+      "explanation": "“L’anno prossimo” indica futuro: faremo.",
+      "review": "Ripassa Modulo 4 → Futuro semplice."
+    },
+    {
+      "id": 22,
+      "part": "Parte B",
+      "module": "Modulo 4",
+      "topic": "Futuro / supposizione",
+      "question": "Non trovo Marco. Sarà in giardino. Qui “sarà” indica:",
+      "options": [
+        "passato",
+        "ordine",
+        "supposizione",
+        "certezza assoluta"
+      ],
+      "answer": "supposizione",
+      "explanation": "Il futuro può esprimere un’ipotesi o una supposizione.",
+      "review": "Ripassa Modulo 4 → Futuro per fare supposizioni."
+    },
+    {
+      "id": 23,
+      "part": "Parte B",
+      "module": "Modulo 4",
+      "topic": "Futuro semplice",
+      "question": "Verrà più tardi. Quale frase ha lo stesso tempo verbale?",
+      "options": [
+        "Andrà domani.",
+        "Andava domani.",
+        "È andato ieri.",
+        "Va ogni giorno."
+      ],
+      "answer": "Andrà domani.",
+      "explanation": "“Verrà” e “andrà” sono futuro semplice.",
+      "review": "Ripassa Modulo 4 → Futuro irregolare."
+    },
+    {
+      "id": 24,
+      "part": "Parte B",
+      "module": "Modulo 5",
+      "topic": "Forma impersonale",
+      "question": "In Italia ______ abbastanza tardi.",
+      "options": [
+        "ci cena",
+        "si cena",
+        "si cenano",
+        "ceniamo"
+      ],
+      "answer": "si cena",
+      "explanation": "Forma impersonale: si + verbo alla terza persona singolare.",
+      "review": "Ripassa Modulo 5 → Forma impersonale."
+    },
+    {
+      "id": 25,
+      "part": "Parte B",
+      "module": "Modulo 5",
+      "topic": "Forma impersonale",
+      "question": "In Sicilia ______ molto bene.",
+      "options": [
+        "si mangiano",
+        "ci mangia",
+        "si mangia",
+        "mangia si"
+      ],
+      "answer": "si mangia",
+      "explanation": "Forma impersonale: si mangia.",
+      "review": "Ripassa Modulo 5 → Forma impersonale e Sicilia."
+    },
+    {
+      "id": 26,
+      "part": "Parte B",
+      "module": "Modulo 5",
+      "topic": "Forma impersonale riflessiva",
+      "question": "Quando si viaggia, ______ molto.",
+      "options": [
+        "si diverte",
+        "ci si diverte",
+        "ci diverte",
+        "si ci diverte"
+      ],
+      "answer": "ci si diverte",
+      "explanation": "Con i verbi riflessivi nella forma impersonale si usa: ci si + verbo.",
+      "review": "Ripassa Modulo 5 → Forma impersonale con verbi riflessivi."
+    },
+    {
+      "id": 27,
+      "part": "Parte B",
+      "module": "Modulo 5",
+      "topic": "Ne",
+      "question": "Quanti libri hai letto? ______ ho letti tre.",
+      "options": [
+        "Ci",
+        "Gli",
+        "Ne",
+        "Lo"
+      ],
+      "answer": "Ne",
+      "explanation": "“Ne” sostituisce una quantità: ne ho letti tre.",
+      "review": "Ripassa Modulo 5 → Ne."
+    },
+    {
+      "id": 28,
+      "part": "Parte B",
+      "module": "Modulo 5",
+      "topic": "Ci",
+      "question": "Domani vai a Roma? No, non ______ vado.",
+      "options": [
+        "ci",
+        "ne",
+        "lo",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "“Ci” può sostituire un luogo: a Roma → ci.",
+      "review": "Ripassa Modulo 5 → Ci."
+    },
+    {
+      "id": 29,
+      "part": "Parte B",
+      "module": "Modulo 6",
+      "topic": "Congiuntivo presente",
+      "question": "Penso che Maria ______ simpatica.",
+      "options": [
+        "è",
+        "sia",
+        "sarà",
+        "era"
+      ],
+      "answer": "sia",
+      "explanation": "Dopo “penso che” si può usare il congiuntivo: sia.",
+      "review": "Ripassa Modulo 6 → Congiuntivo presente."
+    },
+    {
+      "id": 30,
+      "part": "Parte B",
+      "module": "Modulo 6",
+      "topic": "Congiuntivo passato",
+      "question": "Credo che ieri Giulio ______ il pane.",
+      "options": [
+        "ha comprato",
+        "abbia comprato",
+        "comprava",
+        "comprerà"
+      ],
+      "answer": "abbia comprato",
+      "explanation": "Congiuntivo passato: abbia + participio passato.",
+      "review": "Ripassa Modulo 6 → Congiuntivo passato."
+    },
+    {
+      "id": 31,
+      "part": "Parte B",
+      "module": "Modulo 6",
+      "topic": "Congiuntivo passato",
+      "question": "Haohao è contenta che gli studenti ______ tanti progressi.",
+      "options": [
+        "hanno fatto",
+        "abbiano fatto",
+        "facevano",
+        "faranno"
+      ],
+      "answer": "abbiano fatto",
+      "explanation": "Dopo “è contenta che” si usa il congiuntivo: abbiano fatto.",
+      "review": "Ripassa Modulo 6 → Congiuntivo passato."
+    },
+    {
+      "id": 32,
+      "part": "Parte B",
+      "module": "Modulo 6",
+      "topic": "Congiuntivo presente",
+      "question": "Spero che tu ______ l'esame.",
+      "options": [
+        "passavi",
+        "passerai",
+        "passi",
+        "passiamo"
+      ],
+      "answer": "passi",
+      "explanation": "Dopo “spero che” si usa il congiuntivo: passi.",
+      "review": "Ripassa Modulo 6 → Congiuntivo presente."
+    },
+    {
+      "id": 33,
+      "part": "Parte B",
+      "module": "Modulo 6",
+      "topic": "Congiuntivo presente",
+      "question": "È possibile che loro ______ in ritardo.",
+      "options": [
+        "arrivano",
+        "arrivino",
+        "arriveranno",
+        "arrivavano"
+      ],
+      "answer": "arrivino",
+      "explanation": "È possibile che + congiuntivo.",
+      "review": "Ripassa Modulo 6 → Congiuntivo presente."
+    },
+    {
+      "id": 34,
+      "part": "Parte B",
+      "module": "Modulo 7",
+      "topic": "Passivo",
+      "question": "Il bambino è baciato dalla mamma. Quale frase attiva corrisponde?",
+      "options": [
+        "La mamma bacia il bambino.",
+        "Il bambino bacia la mamma.",
+        "La mamma è baciata.",
+        "Il bambino si bacia."
+      ],
+      "answer": "La mamma bacia il bambino.",
+      "explanation": "Nel passivo l’oggetto della frase attiva diventa soggetto.",
+      "review": "Ripassa Modulo 7 → Forma passiva."
+    },
+    {
+      "id": 35,
+      "part": "Parte B",
+      "module": "Modulo 7",
+      "topic": "Passivo passato prossimo",
+      "question": "Il ponte ______ dagli ingegneri.",
+      "options": [
+        "ha progettato",
+        "è stato progettato",
+        "progettava",
+        "progetterà"
+      ],
+      "answer": "è stato progettato",
+      "explanation": "Passato prossimo passivo: è stato + participio passato.",
+      "review": "Ripassa Modulo 7 → Passivo nei tempi verbali."
+    },
+    {
+      "id": 36,
+      "part": "Parte B",
+      "module": "Modulo 7",
+      "topic": "Derivazione verbo-nome",
+      "question": "La decisione deriva dal verbo:",
+      "options": [
+        "descrivere",
+        "proteggere",
+        "decidere",
+        "viaggiare"
+      ],
+      "answer": "decidere",
+      "explanation": "Decidere → decisione.",
+      "review": "Ripassa Modulo 7 → Derivazione dal verbo al nome."
+    },
+    {
+      "id": 37,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Società / natalità",
+      "question": "Negli ultimi anni in Italia la ______ è diminuita.",
+      "options": [
+        "pensione",
+        "natalità",
+        "montagna",
+        "piazza"
+      ],
+      "answer": "natalità",
+      "explanation": "La natalità indica il numero delle nascite.",
+      "review": "Ripassa Modulo 7 → Famiglia, società e natalità."
+    },
+    {
+      "id": 38,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Società / individualismo",
+      "question": "Molte persone preferiscono vivere da sole. Questo fenomeno è spesso collegato a:",
+      "options": [
+        "riciclo",
+        "turismo",
+        "individualismo",
+        "vulcano"
+      ],
+      "answer": "individualismo",
+      "explanation": "L’individualismo è collegato all’importanza crescente dell’individuo e delle scelte personali.",
+      "review": "Ripassa Modulo 7 → Famiglia moderna e società."
+    },
+    {
+      "id": 39,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Società / anziani",
+      "question": "L'aumento degli anziani significa:",
+      "options": [
+        "nascono più bambini",
+        "la popolazione sta invecchiando",
+        "aumenta il turismo",
+        "aumenta la temperatura"
+      ],
+      "answer": "la popolazione sta invecchiando",
+      "explanation": "L’aumento degli anziani indica l’invecchiamento della popolazione.",
+      "review": "Ripassa Modulo 7 → Famiglia, demografia e società."
+    },
+    {
+      "id": 40,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Ambiente / riciclo",
+      "question": "Per proteggere l'ambiente bisogna:",
+      "options": [
+        "usare più plastica",
+        "riciclare la carta",
+        "stampare di più",
+        "buttare tutto"
+      ],
+      "answer": "riciclare la carta",
+      "explanation": "Riciclare la carta è un’azione utile per proteggere l’ambiente.",
+      "review": "Ripassa Modulo 7 → Ambiente e riciclo."
+    },
+    {
+      "id": 41,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Ambiente / sostenibilità",
+      "question": "Quale parola è collegata all'ambiente?",
+      "options": [
+        "figuraccia",
+        "sostenibilità",
+        "chatbot",
+        "cassata"
+      ],
+      "answer": "sostenibilità",
+      "explanation": "La sostenibilità riguarda uno sviluppo rispettoso dell’ambiente e delle persone.",
+      "review": "Ripassa Modulo 7 → Sviluppo sostenibile."
+    },
+    {
+      "id": 42,
+      "part": "Parte C",
+      "module": "Modulo 7",
+      "topic": "Ambiente / sviluppo sostenibile",
+      "question": "Lo sviluppo sostenibile cerca di:",
+      "options": [
+        "usare più energia",
+        "costruire più automobili",
+        "proteggere l'ambiente e migliorare la qualità della vita",
+        "aumentare l'inquinamento"
+      ],
+      "answer": "proteggere l'ambiente e migliorare la qualità della vita",
+      "explanation": "Lo sviluppo sostenibile cerca equilibrio tra ambiente, società ed economia.",
+      "review": "Ripassa Modulo 7 → Ambiente e sostenibilità."
+    },
+    {
+      "id": 43,
+      "part": "Parte C",
+      "module": "Modulo 5",
+      "topic": "Cultura / Sicilia",
+      "question": "In Sicilia sono famosi:",
+      "options": [
+        "i tortellini",
+        "il pesto",
+        "gli arancini",
+        "la polenta"
+      ],
+      "answer": "gli arancini",
+      "explanation": "Gli arancini sono uno dei prodotti più conosciuti della cucina siciliana.",
+      "review": "Ripassa Modulo 5 → Sicilia e cucina italiana."
+    },
+    {
+      "id": 44,
+      "part": "Parte C",
+      "module": "Modulo 5",
+      "topic": "Cultura / borghi",
+      "question": "Le case a 1 euro sono un progetto creato per:",
+      "options": [
+        "costruire nuovi centri commerciali",
+        "salvare i piccoli borghi che stanno perdendo abitanti",
+        "aumentare il traffico nelle città",
+        "vendere più automobili"
+      ],
+      "answer": "salvare i piccoli borghi che stanno perdendo abitanti",
+      "explanation": "Le case a 1 euro servono a ripopolare piccoli centri e borghi in difficoltà.",
+      "review": "Ripassa Modulo 5 → Case a 1 euro e borghi italiani."
+    },
+    {
+      "id": 45,
+      "part": "Parte C",
+      "module": "Modulo 5",
+      "topic": "Cultura / UNESCO",
+      "question": "Secondo il testo, la cucina italiana è stata riconosciuta dall'UNESCO come:",
+      "options": [
+        "un prodotto commerciale",
+        "patrimonio dell'umanità",
+        "una disciplina sportiva",
+        "una città storica"
+      ],
+      "answer": "patrimonio dell'umanità",
+      "explanation": "Nel testo si parla del riconoscimento della cucina italiana come patrimonio dell’umanità.",
+      "review": "Ripassa Modulo 5 → Cucina italiana e UNESCO."
+    },
+    {
+      "id": 46,
+      "part": "Parte C",
+      "module": "Modulo 5",
+      "topic": "Cultura / cucina degli affetti",
+      "question": "Nel testo sulla cucina italiana si parla della:",
+      "options": [
+        "cucina industriale",
+        "cucina veloce",
+        "cucina degli affetti",
+        "cucina internazionale"
+      ],
+      "answer": "cucina degli affetti",
+      "explanation": "“Cucina degli affetti” indica il legame tra cucina, memoria, relazioni e territorio.",
+      "review": "Ripassa Modulo 5 → Cucina italiana, tradizione e patrimonio culturale."
+    },
+    {
+      "id": 47,
+      "part": "Parte D",
+      "module": "Modulo 8",
+      "topic": "Tecnologia / Intelligenza Artificiale",
+      "question": "Quale può essere un vantaggio dell'Intelligenza Artificiale?",
+      "options": [
+        "Aumentare l'inquinamento.",
+        "Bloccare internet.",
+        "Aiutare gli studenti a studiare.",
+        "Eliminare le scuole."
+      ],
+      "answer": "Aiutare gli studenti a studiare.",
+      "explanation": "L’Intelligenza Artificiale può aiutare nello studio, nel lavoro e in diversi servizi.",
+      "review": "Ripassa Modulo 8 → Pro e contro dell’Intelligenza Artificiale."
+    },
+    {
+      "id": 48,
+      "part": "Parte D",
+      "module": "Modulo 8",
+      "topic": "Tecnologia / Intelligenza Artificiale",
+      "question": "Quale può essere un rischio dell'Intelligenza Artificiale?",
+      "options": [
+        "Migliorare la comunicazione.",
+        "Aiutare la medicina.",
+        "Problemi di privacy.",
+        "Tradurre le lingue."
+      ],
+      "answer": "Problemi di privacy.",
+      "explanation": "Uno dei rischi dell’Intelligenza Artificiale riguarda l’uso dei dati personali e la privacy.",
+      "review": "Ripassa Modulo 8 → Rischi dell’Intelligenza Artificiale."
+    },
+    {
+      "id": 49,
+      "part": "Parte D",
+      "module": "Modulo 8",
+      "topic": "Social network / anziani",
+      "question": "Secondo alcuni esperti, i social network possono essere utili agli anziani perché permettono di:",
+      "options": [
+        "conoscere persone nuove e condividere le proprie esperienze.",
+        "contrastare l'isolamento, allenare la memoria e continuare a essere autonomi.",
+        "passare più tempo davanti allo schermo.",
+        "ricevere più pubblicità personalizzata."
+      ],
+      "answer": "contrastare l'isolamento, allenare la memoria e continuare a essere autonomi.",
+      "explanation": "Nel testo la tecnologia è presentata anche come uno strumento per contrastare l’isolamento degli anziani.",
+      "review": "Ripassa Modulo 8 → Tecnologia, adulti e anziani."
+    },
+    {
+      "id": 50,
+      "part": "Parte D",
+      "module": "Modulo 8",
+      "topic": "Dibattito / social network",
+      "question": "Il tuo amico dice: “I social network sono sempre negativi.” Tu non sei completamente d'accordo. Che cosa dici?",
+      "options": [
+        "Hai perfettamente ragione.",
+        "Anch'io penso che sia così.",
+        "In parte hai ragione, ma...",
+        "Che figuraccia!"
+      ],
+      "answer": "In parte hai ragione, ma...",
+      "explanation": "“In parte hai ragione, ma…” serve per esprimere disaccordo parziale.",
+      "review": "Ripassa Modulo 8 → Dibattito e testo argomentativo."
+    }
+  ],
+  "module_review": {
+    "Modulo 1": "Relazioni, emozioni e conflitti: figuracce, rabbia, maleducazione, fare la pace, espressioni autentiche.",
+    "Modulo 2": "Condizionale semplice, desideri, cortesia, pronomi relativi che/cui.",
+    "Modulo 3": "Shopping, moda, abbigliamento, comparativi e espressioni come “ti sta a pennello”.",
+    "Modulo 4": "Futuro semplice, supposizioni e modi di dire come “Se sono rose, fioriranno”.",
+    "Modulo 5": "Sicilia, cucina italiana, UNESCO, patrimonio culturale, forma impersonale, ci/ne, turismo culturale.",
+    "Modulo 6": "Libri, recensioni, opinioni, congiuntivo presente e passato.",
+    "Modulo 7": "Famiglia, natalità, ambiente, sostenibilità, passivo e derivazione verbo-nome.",
+    "Modulo 8": "Tecnologia, Intelligenza Artificiale, social network, dibattito, opinioni e testo argomentativo."
+  },
+  "parts": {
+    "Parte A": "Come parlano davvero gli italiani?",
+    "Parte B": "La grammatica che usi davvero",
+    "Parte C": "Società, Cultura e Ambiente",
+    "Parte D": "Tecnologia e dibattito"
+  }
+}

@@ -133,7 +133,7 @@
       "part": "Parte A",
       "module": "Modulo 3",
       "topic": "Italiano reale / shopping",
-      "question": "Hai provato una giacca e ti sta benissimo. Che cosa dice il commesso?",
+      "question": "Il commesso vuole dire:\n\"Questa giacca sembra fatta su misura per te.\"\n\nChe cosa dice?",
       "options": [
         "Ti sta bene.",
         "Ti dona molto.",
